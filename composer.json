@@ -1,0 +1,22 @@
+{
+    "name": "sjaakp/yii2-cookieconsent",
+    "description": "Osano Cookie Consent plugin for the Yii 2.0 framework",
+    "keywords": ["yii", "yii2", "extension", "widget", "cookie consent"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sjaak Priester",
+            "email": "sjaak@sjaakpriester.nl",
+            "homepage": "https://sjaakpriester.nl"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sjaakp\\cookieconsent\\": ""
+        }
+    }
+}
